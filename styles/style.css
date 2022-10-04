@@ -46,7 +46,7 @@
   width: 388px;
   position: absolute;
   bottom: 30px;
-  left: 64px; 
+  left: 64px;
   font-size: 18px;
   line-height: 25px;
   z-index: 4;
@@ -258,7 +258,7 @@
 /* FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER-----FOOTER */
 
 footer {
-  background-color: #1f1f1f; 
+  background-color: #1f1f1f;
   padding: 60px 0 40px 0;
 }
 
@@ -314,7 +314,6 @@ footer {
 }
 
 .footer__social-icon {
-  width: 16px;
   width: 16px;
   text-decoration: none;
   color: #f2f2f2;
