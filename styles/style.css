@@ -313,7 +313,6 @@
 .footer__column-links {
   display: flex;
   flex-direction: column;
-  outline: thin solid red;
   margin-bottom: 16px;
 }
 
