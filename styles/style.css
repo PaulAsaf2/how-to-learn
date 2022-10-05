@@ -178,6 +178,11 @@
   padding: 0;
 }
 
+.table__text_source {
+  padding-top: 20px;
+  margin: 0;
+}
+
 /* FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN------FEYNMAN */
 
 .feynman {
