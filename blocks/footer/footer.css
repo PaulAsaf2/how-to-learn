@@ -4,4 +4,5 @@
     min-height: 350px;
     display: flex;
     color: white;
+    box-sizing: border-box;
   }
